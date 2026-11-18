@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;ARKVehicleRental&apos;" deleteContents="true" description="Delete resource &apos;ARKVehicleRental&apos;" element1="/ARKVehicleRental" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1791612695981"/>&#x0A;<refactoring comment="Delete resource &apos;ARKVehicleRental/src/main/webapp/images&apos;" deleteContents="false" description="Delete resource &apos;ARKVehicleRental/src/main/webapp/images&apos;" element1="/ARKVehicleRental/src/main/webapp/images" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1791614315557"/>
+</session>
